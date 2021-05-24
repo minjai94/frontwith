@@ -1,1 +1,8 @@
 /* 코드 구현 */
+li {
+    list-style: none;
+}
+
+span {
+    padding: 5px;
+}
