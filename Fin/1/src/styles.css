@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+}
+
+#app a {
+  margin: 5px 0;
+}
